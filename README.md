@@ -1,11 +1,3 @@
-<!-- ========================================
-     GitHub Profile README for Laceeeeee
-     使用说明：
-     1) 这是完整版本，可直接保存为 README.md
-     2) 仓库名必须为：Laceeeeee
-     3) 可按需删减模块
-======================================== -->
-
 <!-- 顶部波浪图 -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24,30&section=header"/>
 
