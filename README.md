@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="https://bing.img.run/api.php" width="100%" style="border-radius: 10px;" />
+<img src="https://bing.img.run/api.php](https://bing.img.run/uhd.php" width="100%" style="border-radius: 10px;" />
 
 <br>
 
