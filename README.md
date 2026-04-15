@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=header&text=啊&fontSize=50&fontAlignY=50" width="400" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=laceeeeee&fontSize=60&fontAlignY=35&animation=fadeIn&bg_color=ffffff" width="600" />
 
 ### ✨ 语言设计师 / 游戏生活家 / 终身学习者
 
