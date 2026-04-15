@@ -1,7 +1,8 @@
 <div align="center">
 
 
-<img src="https://bing.img.run/api.php](https://bing.img.run/uhd.php" width="100%" style="border-radius: 10px;" />
+<img src="https://api.dujin.org/bing/1920.php" width="100%" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+<br>
 
 <br>
 
