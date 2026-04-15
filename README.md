@@ -1,64 +1,71 @@
 <div align="center">
 
-# 🌈 欢迎来到 laceeeeee 的奇妙世界！
+<!-- 顶部：透明玻璃质感/极简高级感横幅 -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=180&section=header&text=laceeeeee&fontSize=80&animation=fadeIn&fontAlignY=45" width="100%" />
 
-<!-- 顶部横幅：动态、亮眼 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!&fontSize=70&animation=fadeIn" width="100%" />
+<!-- 一句具有氛围感的 Slogan -->
+<p align="center">
+  <i>"在设计的缝隙里寻找光，在代码的世界外感受生活。"</i>
+</p>
 
-<!-- 个人社交媒体徽章 -->
-[![Bilibili](https://img.shields.io/badge/BiliBili-关注我-fb7299?style=for-the-badge&logo=bilibili&logoColor=white)](https://github.com/laceeeeee)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://github.com/laceeeeee)
-[![Email](https://img.shields.io/badge/Email-联系我-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
----
-
-### ✨ 关于我 (About Me)
-
-🚀 我是一个热爱生活、追求极致视觉体验的探索者。
-🎨 **兴趣：** 游戏 / 音乐 / 电影 / 极简主义
-💡 **人生格言：** “Stay Hungry, Stay Foolish.”
+<!-- 社交媒体/功能按钮：使用更通透的配色 -->
+<p align="center">
+  <a href="https://github.com/laceeeeee"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/laceeeeee"><img src="https://img.shields.io/badge/-BiliBili-fb7299?style=for-the-badge&logo=bilibili&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Contact%20Me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+</p>
 
 ---
 
-### 🎨 技能与工具 (Skills & Tools)
+### 🖋️ 关于我 | About Me
 
-<!-- 这里使用彩色图标，看起来非常丰富 -->
-基础工具：
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌈 个人标签</h4>
+      <ul>
+        <li>色彩爱好者 & 审美强迫症</li>
+        <li>极简主义践行者</li>
+        <li>热爱旅行与胶片摄影</li>
+      </ul>
+    </td>
+    <td width="55%" valign="top">
+      <h4>💡 现状</h4>
+      <ul>
+        <li>📍 正在探索视觉艺术的新维度</li>
+        <li>🌱 正在学习如何让生活更具规律感</li>
+        <li>✨ 乐于交流任何好玩的主题</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🎨 我的调色盘 | Skills & Tools
+
+<!-- 使用鲜艳的平面化图标，增加视觉丰富度 -->
 <p>
-  <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=Adobe%20Illustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat-square&logo=Microsoft%20Office&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20PS-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20AI-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
 
 ---
 
-### 📊 Github 统计数据 (Statistics)
+### 📊 活动数据 | Github Statistics
 
-<!-- 这里的卡片会自动根据你的 GitHub 活动刷新，颜色是渐变的 -->
+<!-- 这里更换了更现代的卡片主题：透明背景感 -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laceeeeee&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=586069&bg_color=ffffff&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laceeeeee&layout=compact&title_color=00bfff&icon_color=00bfff&text_color=586069&bg_color=ffffff&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laceeeeee&show_icons=true&title_color=191970&icon_color=0078D4&text_color=333&bg_color=ffffff00&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laceeeeee&layout=compact&title_color=191970&icon_color=0078D4&text_color=333&bg_color=ffffff00&hide_border=false" />
 </p>
 
 ---
 
-### 🏆 最近的成就 (Trophies)
+<img src="https://raw.githubusercontent.com/Mayccoll/Mayccoll/master/fuji.gif" width="100%" />
 
-<!-- 这一行会显示你的 GitHub 奖杯，非常鲜艳 -->
-[![laceeeeee's GitHub trophy](https://github-profile-trophy.vercel.app/?username=laceeeeee&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 💬 跟我打个招呼吧！
-
-<!-- 一个访客计数器 -->
-![Visitor Count](https://profile-counter.glitch.me/laceeeeee/count.svg)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/laceeeeee/laceeeeee/main/rainbow-divider.gif" width="100%" /> 
-  <sub>(如果想放动态分割线，可以自己上传一个 GIF 到仓库)</sub>
-</p>
+*(Stay inspired & Keep creating)*
 
 </div>
